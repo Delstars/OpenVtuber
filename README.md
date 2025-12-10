@@ -18,7 +18,9 @@ Navigate to the tracker folder and install the required Python libraries:
 Bash
 
 cd tracker
+
 pip install -r requirements.txt
+
 🚀 Setup & Usage
 1. Blender Setup (The Receiver)
 Open Blender and load your rigged character.
